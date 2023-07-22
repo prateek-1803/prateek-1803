@@ -2,13 +2,6 @@
 
 Hi there! 👋 I'm Prateek Kumar Khandelwal, a Computer Science undergraduate at BIT Mesra. I'm passionate about competitive programming and exploring the exciting world of Data Science and Natural Language Processing. Welcome to my GitHub profile, where you can find a collection of my projects, contributions, and explorations in these fields.
 
-## About Me
-
-- 🔭 I’m currently working on enhancing my problem-solving skills through competitive programming challenges.
-- 🌱 I’m constantly learning and experimenting with various data science and NLP tools and techniques.
-- 💬 Ask me about anything related to algorithms, data structures, or data science concepts.
-- 📫 How to reach me: prateekkhandelwal0000@gmail.com(mailto:prateekkhandelwal0000@gmail.com)
-
 ## My Interests
 
 - Competitive Programming: I love participating in coding contests on platforms like Codeforces, LeetCode. Solving algorithmic puzzles challenges me to think critically and creatively.
@@ -25,6 +18,7 @@ Here are some of the exciting projects I've been working on:
    - Website link: ChatGPT Reviews(https://collegegpt-flame.vercel.app/)
    - Webscraped Dataset link: Dataset(https://www.kaggle.com/datasets/prateekkhandelwal18/indian-college-reviews)
    - Topic Modelling Notebook link: Notebook(https://www.kaggle.com/code/prateekkhandelwal18/topic-modelling-indian-college-reviews)
+   - Repo link: Repo is private
 
 **Other projects pinned below**
 
