@@ -31,8 +31,6 @@ Here are some of the exciting projects I've been working on:
 I'm always eager to connect with  programmers. Feel free to reach out to me through any of these platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/prateek-kumar-khandelwal-3851a9232/)
-- [Codeforces](https://codeforces.com/profile/PKK_18)
-- [LeetCode](https://leetcode.com/user5322j/)
 
 Let's learn, collaborate, and grow together in the exciting world of Computer Science! 
 
